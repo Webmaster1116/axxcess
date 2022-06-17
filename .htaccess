@@ -1,0 +1,14 @@
+# BEGIN WordPress
+Options -Indexes
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+AddDefaultCharset UTF-8
+
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteRule ^index/?$ index.php [QSA,L]
+RewriteRule ^disclaimer/?$ disclaimer.php [QSA,L]
+RewriteRule ^gdpr/?$ gdpr.php [QSA,L]
+RewriteRule ^privacy/?$ privacy.php [QSA,L]
+RewriteRule ^terms/?$ terms.php [QSA,L]
+
+# END WordPress
