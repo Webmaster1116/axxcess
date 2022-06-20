@@ -28,7 +28,7 @@
   </head>
   <body>
     <div class="header-image">
-      <img src="./assets/img/header1.png" />
+      <img src="./assets/img/header.svg" />
     </div>
     <!-- Masthead-->
     <header class="terms-head">

@@ -28,7 +28,7 @@
   </head>
   <body>
     <div class="header-image">
-      <img src="./assets/img/header1.png" />
+      <img src="./assets/img/header.svg" />
     </div>
     <!-- Masthead-->
     <header class="terms-head">
@@ -87,9 +87,13 @@
             </svg>
           </button>
           <div class="top-menu-inner nav-menu">
-            <a href="javascript:void()" class="menu-item link-texts">Marketplace</a>
+            <a href="javascript:void()" class="menu-item link-texts"
+              >Marketplace</a
+            >
             <a href="javascript:void()" class="menu-item link-texts">Stats</a>
-            <a href="javascript:void()" class="menu-item link-texts">Resources</a>
+            <a href="javascript:void()" class="menu-item link-texts"
+              >Resources</a
+            >
             <a href="javascript:void()" class="menu-item link-texts">Create</a>
           </div>
         </div>

@@ -88,10 +88,16 @@
               </svg>
             </button>
             <div class="top-menu-inner nav-menu">
-              <a href="javascript:void()" class="menu-item link-texts">Marketplace</a>
+              <a href="javascript:void()" class="menu-item link-texts"
+                >Marketplace</a
+              >
               <a href="javascript:void()" class="menu-item link-texts">Stats</a>
-              <a href="javascript:void()" class="menu-item link-texts">Resources</a>
-              <a href="javascript:void()" class="menu-item link-texts">Create</a>
+              <a href="javascript:void()" class="menu-item link-texts"
+                >Resources</a
+              >
+              <a href="javascript:void()" class="menu-item link-texts"
+                >Create</a
+              >
             </div>
           </div>
         </section>
@@ -125,7 +131,9 @@
 
                 <div>
                   <!-- <a href="#" class="started_btn">Get Started</a> -->
-                  <a href="javascript:void()" class="cut-btn">Get Started</a>
+                  <a href="https://join.iwanttobeafounder.com" class="cut-btn"
+                    >Get Started</a
+                  >
                 </div>
 
                 <div class="join-founder">
@@ -220,7 +228,11 @@
         <div class="environment">
           <div class="container">
             <div class="row">
-              <div class="col-lg-7" data-aos="fade-up" data-aos-duration="1600">
+              <div
+                class="col-lg-7 video-col"
+                data-aos="fade-up"
+                data-aos-duration="1600"
+              >
                 <div class="video-mask">
                   <video poster="./assets/img/mask.png">
                     <source src="./assets/video.mp4" type="video/mp4" />
@@ -228,12 +240,12 @@
                 </div>
               </div>
               <div
-                class="col-lg-5"
+                class="col-lg-5 video-col"
                 data-aos="fade-down"
                 data-aos-duration="2000"
               >
                 <div class="video-content">
-                  <h2 class="mb-5">
+                  <h2 class="mb-4">
                     We are Creating an <span>Exciting Enviroment.</span>
                   </h2>
                   <h6>
@@ -284,7 +296,9 @@
                       data-aos-duration="2000"
                     />
                   </div>
-                  <h3>Exclusive Tools and <span class="blue">AI</span></h3>
+                  <h3 class="tools-ai">
+                    Exclusive Tools and <span class="blue">AI</span>
+                  </h3>
                   <p class="lead mb-0">
                     FOREX Trading, Digital Currency Trading Trade Ideas<br />
                     Plus MORE!
@@ -323,12 +337,17 @@
         <h2 class="founder-title mb-5 mb-2">Become a Founder</h2>
         <div class="row">
           <div class="col-lg-6" data-aos="fade-down" data-aos-duration="1600">
-            <div class="testimonial-item founder-card mx-auto mb-5 mb-lg-0">
+            <div
+              class="testimonial-item founder-card mx-auto mb-5 mb-lg-0"
+              id="Card1"
+            >
               <div class="founder-card-header justify-content-between">
-                <h2>Gold</h2>
-                <div>$299</div>
+                <h2>GOLD</h2>
+                <div class="total-value1">
+                  <img src="./assets/img/gold.svg" />
+                </div>
               </div>
-              <div class="founder-card-content col-md-12">
+              <div class="founder-card-content col-md-12" id="Content1">
                 <div class="col-md-9">
                   <div>
                     <h3 class="founder-card-title mt-4">
@@ -337,41 +356,49 @@
                   </div>
                   <div>
                     <h3 class="founder-card-title">
-                      Priority Access to Future DTC/NFT Drops
+                      - Priority Access to Future DTC/NFT Drops (Gold Member
+                      Discounted Pricing)
+                    </h3>
+                  </div>
+                  <div>
+                    <h3 class="founder-card-title">
+                      - Gold Member Only Discounts Includes:
                     </h3>
                     <span class="founder-card-text">
-                      (Gold Member Discounted Pricing)
+                      <li>Complete University & Technology Pack</li>
+
+                      <li>
+                        <span class="discount-price"
+                          >$299<span class="discount-line"></span></span
+                        >$179 per month (12 months) (Starts after official
+                        launch)
+                      </li>
+                      <li>
+                        Virtual Business Office
+                        <span class="discount-price2"
+                          >$49<span class="discount-line2"></span
+                        ></span>
+                        $39 (for Lifetime of Business)
+                      </li>
                     </span>
                   </div>
                   <div>
                     <h3 class="founder-card-title">
-                      Gold Member Only Discounts Includes:
+                      - Up to 15% discounts on Future Events, Products, Services
+                      and Swag
                     </h3>
-                    <span class="founder-card-text">
-                      <li>Complete University & Technology</li>
-                      <div class="pl-2">
-                        <span
-                          >Pack $299 $179 per month (12 months) | (Starts after
-                          official launch)
-                        </span>
-                      </div>
-
-                      <li>
-                        Virtual Business Office $49 $39 (for Lifetime of
-                        Business)
-                      </li>
-                      <li>
-                        Increased Compensation Plan Earning Potential (12
-                        months)
-                      </li>
-                    </span>
                   </div>
                   <div>
-                    <h3 class="founder-card-title">Total Value: $799</h3>
-                    <span class="founder-card-text">
-                      *Digital Trust Contract | * Non-Fungible Token
-                    </span>
+                    <h3 class="founder-card-title">
+                      - Increased Compensation Plan Earning Potential (12
+                      months)
+                    </h3>
                   </div>
+                  <div class="card-bottom-content">
+                    <h5>*Digital Trust Contract</h5>
+                    <h5>*NFT: Non-Fungible Token</h5>
+                  </div>
+                  <div class="total-price"><h2>TOTAL VALUE $799</h2></div>
                 </div>
                 <div class="founder-card-img col-md-3">
                   <img src="./assets/img/gold.svg" />
@@ -380,55 +407,73 @@
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-down" data-aos-duration="1600">
-            <div class="testimonial-item founder-card mx-auto mb-5 mb-lg-0">
+            <div
+              class="testimonial-item founder-card mx-auto mb-5 mb-lg-0"
+              id="Card2"
+            >
               <div class="founder-card-header justify-content-between">
-                <h2>Elite</h2>
-                <div>$1,499</div>
+                <h2>ELITE</h2>
+                <div class="total-value2">
+                  <img src="./assets/img/gold.svg" />
+                </div>
               </div>
-              <div class="founder-card-content col-md-12">
+              <div class="founder-card-content col-md-12" id="Content2">
                 <div class="col-md-9">
                   <div>
                     <h3 class="founder-card-title mt-4">
-                      Special Edition DTC*/NFT*
+                      RARE Edition DTC*/NFT*<br />
+                      All benefits of Gold Membership +
                     </h3>
                   </div>
                   <div>
                     <h3 class="founder-card-title">
-                      Priority Access to Future DTC/NFT Drops
+                      - Whitelisted for Future DTC/NFT Drops (Discounted
+                      Pricing)
+                    </h3>
+                  </div>
+                  <div>
+                    <h3 class="founder-card-title">
+                      - Exclusive Elite Founders Coin 100% Sliver (Uniquely
+                      Branded)
+                    </h3>
+                  </div>
+                  <div>
+                    <h3 class="founder-card-title">
+                      - Exclusive Elite Members Only Benefits:
                     </h3>
                     <span class="founder-card-text">
-                      (Elite Member Discounted Pricing)
+                      <li>
+                        Complete University & Technology Pack<br />
+                        <span class="discount-price"
+                          >$299<span class="discount-line"></span></span
+                        >$159 per month (fot Lifetime of Business) (Starts after
+                        official launch)
+                      </li>
+                      <li>
+                        Virtual Business Office
+                        <span class="discount-price2"
+                          >$49<span class="discount-line2"></span
+                        ></span>
+                        $0 waived
+                      </li>
+                      <li>
+                        Up to 40% discounts on Future Events, Products, Services
+                        and Swag
+                      </li>
                     </span>
                   </div>
                   <div>
                     <h3 class="founder-card-title">
-                      Elite Member Only Discounts Includes:
+                      - Increased Compensation Plan Earning Potential (24
+                      months)
                     </h3>
-                    <span class="founder-card-text">
-                      <li>Complete University & Technology</li>
-                      <div class="pl-2">
-                        <span
-                          >Pack $299 $179 per month (12 months) | (Starts after
-                          official launch)
-                        </span>
-                      </div>
-
-                      <li>
-                        Virtual Business Office $49 $39 (for Lifetime of
-                        Business)
-                      </li>
-                      <li>
-                        Increased Compensation Plan Earning Potential (12
-                        months)
-                      </li>
-                    </span>
                   </div>
                   <div>
-                    <h3 class="founder-card-title">Total Value: $2,999</h3>
-                    <span class="founder-card-text">
-                      *Digital Trust Contract | * Non-Fungible Token
-                    </span>
+                    <h3 class="founder-card-title">
+                      - Elite Only Bonus Pool (Paid monthly)
+                    </h3>
                   </div>
+                  <div class="total-price"><h2>TOTAL VALUE $2999</h2></div>
                 </div>
                 <div class="founder-card-img col-md-3">
                   <img src="./assets/img/gold.svg" />
@@ -437,6 +482,12 @@
             </div>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section class="signup">
+      <div class="container signup-bottom">
+        <a href="https://join.iwanttobeafounder.com" class="cut-btn">Sign Up</a>
       </div>
     </section>
     <!-- Call to Action-->
@@ -750,7 +801,9 @@
 
               <div class="subscribe">
                 <input placeholder="Your Email" />
-                <a href="javascript:void()" class="cut-btn subscribe-btn">Subscribe</a>
+                <a href="javascript:void()" class="cut-btn subscribe-btn"
+                  >Subscribe</a
+                >
               </div>
               <h6>Stay in Touch <img src="./assets/img/plus.svg" /></h6>
             </div>
@@ -779,6 +832,28 @@
     <script>
       $(".video-mask").click(function () {
         $("video").trigger("play");
+      });
+
+      $("#Card1").click(function () {
+        console.log($("#Content1").css("display"));
+        var status = $("#Content1").css("display");
+        if (status == "none") {
+          $("#Content1").css("display", "flex");
+          $(".total-value1").html("$299");
+        } else {
+          $("#Content1").css("display", "none");
+          $(".total-value1").html('<img src="./assets/img/gold.svg" />');
+        }
+      });
+      $("#Card2").click(function () {
+        var status = $("#Content2").css("display");
+        if (status == "none") {
+          $("#Content2").css("display", "flex");
+          $(".total-value2").html("$1499");
+        } else {
+          $("#Content2").css("display", "none");
+          $(".total-value2").html('<img src="./assets/img/gold.svg" />');
+        }
       });
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.js"></script>

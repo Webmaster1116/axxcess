@@ -8,7 +8,7 @@
     />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Axxcess.com</title>
+    <title>I want to be a founder</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -28,7 +28,7 @@
   </head>
   <body>
     <div class="header-image">
-      <img src="./assets/img/header1.png" />
+      <img src="./assets/img/header.svg" />
     </div>
     <!-- Masthead-->
     <header class="terms-head">
