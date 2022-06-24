@@ -12699,3 +12699,11 @@ footer.footer {
   font-size: 16px;
   color: #818181;
 }
+#faq {
+  position: relative;
+  z-index: 15;
+}
+.answer span {
+  display: block;
+  padding-left: 20px;
+}

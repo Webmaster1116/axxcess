@@ -576,7 +576,7 @@
                     data-target="#questionOne"
                     aria-expanded="false"
                   >
-                    <span>What is Axxcess Markets?</span>
+                    <span>What is a Founder? </span>
                     <img
                       src="./assets/img/faq-dropdown-arrow.svg"
                       alt="Arrow"
@@ -590,11 +590,15 @@
                   >
                     <div class="answer">
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Sunt ipsa sapiente expedita aperiam iste suscipit cum
-                        voluptates voluptatibus facilis incidunt perferendis
-                        dolore iure iusto, minima culpa id velit consequatur
-                        quae?
+                        Being a FOUNDER has its privileges. There are a limited
+                        number of memberships and a limited time to access them.
+                        The countdown has begun!<br />
+                        What is means to be a founder is…you will have access to
+                        Preferred Pricing, Unique Membership Opportunities and
+                        Privileges only for FOUNDERS. This is the time to secure
+                        your position before the official public launch and name
+                        reveal, coming August 2022, and before your opportunity
+                        is gone.
                       </p>
                     </div>
                   </div>
@@ -608,7 +612,7 @@
                     data-target="#questionTwo"
                     aria-expanded="false"
                   >
-                    <span>When is the official launch date?</span>
+                    <span>When does the Official Company launch? </span>
                     <img
                       src="./assets/img/faq-dropdown-arrow.svg"
                       alt="Arrow"
@@ -622,11 +626,9 @@
                   >
                     <div class="answer">
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Sunt ipsa sapiente expedita aperiam iste suscipit cum
-                        voluptates voluptatibus facilis incidunt perferendis
-                        dolore iure iusto, minima culpa id velit consequatur
-                        quae?
+                        We are officially launching the company in early August
+                        of 2022. Please stay tuned for the exact date to be
+                        announced.
                       </p>
                     </div>
                   </div>
@@ -640,7 +642,7 @@
                     data-target="#questionThree"
                     aria-expanded="false"
                   >
-                    <span>What is mint price?</span>
+                    <span>Can I use a Credit Card to join as a member?</span>
                     <img
                       src="./assets/img/faq-dropdown-arrow.svg"
                       alt="Arrow"
@@ -654,11 +656,88 @@
                   >
                     <div class="answer">
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Sunt ipsa sapiente expedita aperiam iste suscipit cum
-                        voluptates voluptatibus facilis incidunt perferendis
-                        dolore iure iusto, minima culpa id velit consequatur
-                        quae?
+                        Yes, you can.<br />
+                        We have a credit card option for membership
+                        registration. We have Visa, Mastercard, Discover and
+                        American Express. You will be able to choose either to
+                        pay by Credit Card or pay by Cryptocurrency at checkout
+                        after the registration process.<br /><br />
+                        <i>Please note:</i> We are a digital currency company
+                        but for your convenience we are allowing credit card
+                        transactions. There will be A 3% convenience fee added
+                        to the total at checkout for all credit card
+                        transactions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="question-box">
+                  <button
+                    class="btn btn-question collapsed"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#questionFour"
+                    aria-expanded="false"
+                  >
+                    <span>What is an NFT/DTC? </span>
+                    <img
+                      src="./assets/img/faq-dropdown-arrow.svg"
+                      alt="Arrow"
+                      class="arrow"
+                    />
+                  </button>
+                  <div
+                    class="collapse"
+                    id="questionFour"
+                    data-parent="#faqQuestionWrapper"
+                  >
+                    <div class="answer">
+                      <p>
+                        <b>NFT</b> - stands for Non-Fungible Token.<br />
+                        “Non-fungible” means that it is completely unique.<br />
+                        “Token” means that it can be transferred on a
+                        blockchain. Essentially, NFTs are assets that carry a
+                        unique digital identity and can be traded between users
+                        on a public blockchain. Common examples of NFTs include
+                        artwork, trading cards, comic books, sports
+                        collectibles, games and more. Although NFTs tend to be
+                        associated with artwork, they represent much more.
+                        <br /><br /><b>DTC</b> - stands for Digital Trust
+                        Contract.<br />
+                        <b>This is what we name our companies SPECIAL NFT’s.</b>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="question-box">
+                  <button
+                    class="btn btn-question collapsed"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#questionFive"
+                    aria-expanded="false"
+                  >
+                    <span>What is the Metaverse? </span>
+                    <img
+                      src="./assets/img/faq-dropdown-arrow.svg"
+                      alt="Arrow"
+                      class="arrow"
+                    />
+                  </button>
+                  <div
+                    class="collapse"
+                    id="questionFive"
+                    data-parent="#faqQuestionWrapper"
+                  >
+                    <div class="answer">
+                      <p>
+                        <b>“Metaverse”</b> is currently a major buzzword in the
+                        worlds of tech, business, and finance<br />
+                        In the broadest terms, the metaverse is understood as a
+                        graphically rich virtual space, (virtual reality) where
+                        people can work, play, shop, socialize in a virtual
+                        reality ecosystem.
                       </p>
                     </div>
                   </div>
@@ -677,7 +756,7 @@
                     data-target="#questionSix"
                     aria-expanded="false"
                   >
-                    <span>How will the mint proceeds be used?</span>
+                    <span>What is cryptocurrency? </span>
                     <img
                       src="./assets/img/faq-dropdown-arrow.svg"
                       alt="Arrow"
@@ -691,16 +770,14 @@
                   >
                     <div class="answer">
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Sunt ipsa sapiente expedita aperiam iste suscipit cum
-                        voluptates voluptatibus facilis incidunt perferendis
-                        dolore iure iusto, minima culpa id velit consequatur
-                        quae?
+                        It is a digital currency in which transactions are
+                        verified and records maintained by a decentralized
+                        system using cryptography, rather than by a centralized
+                        authority which “a bank” for example.
                       </p>
                     </div>
                   </div>
                 </div>
-
                 <div class="question-box">
                   <button
                     class="btn btn-question collapsed"
@@ -709,7 +786,7 @@
                     data-target="#questionSeven"
                     aria-expanded="false"
                   >
-                    <span>Where will the rarity be listed?</span>
+                    <span>What is the Blockchain? </span>
                     <img
                       src="./assets/img/faq-dropdown-arrow.svg"
                       alt="Arrow"
@@ -722,11 +799,57 @@
                     data-parent="#faqQuestionWrapper"
                   >
                     <div class="answer">
-                      <p>Rarity will be listed on Rarity Tools after mint.</p>
+                      <p>
+                        A system in which a record of transactions made in
+                        bitcoin, or another cryptocurrency are maintained across
+                        several computers that are linked in a peer-to-peer
+                        network.
+                      </p>
                     </div>
                   </div>
                 </div>
-
+                <div class="question-box">
+                  <button
+                    class="btn btn-question collapsed"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#questionEight"
+                    aria-expanded="false"
+                  >
+                    <span>What is a crypto wallet? </span>
+                    <img
+                      src="./assets/img/faq-dropdown-arrow.svg"
+                      alt="Arrow"
+                      class="arrow"
+                    />
+                  </button>
+                  <div
+                    class="collapse"
+                    id="questionEight"
+                    data-parent="#faqQuestionWrapper"
+                  >
+                    <div class="answer">
+                      <p>
+                        A crypto wallet is a software program or physical medium
+                        to safely store the public and private keys you need to
+                        make cryptocurrency transactions. Crypto wallets also
+                        let you send and receive select cryptocurrencies, from
+                        Bitcoin to Ethereum to Solana and beyond. You can also
+                        keep a portfolio of your non-fungible digital (NFT/DTC
+                        assets using one of these tools.<br />
+                        <span
+                          >• You will need a <b>“hot wallet”</b> not a “cold
+                          wallet”</span
+                        >
+                        A hot wallet such as Coinbase Wallet, MetaMask, Rainbow,
+                        is connected to the internet a cold wallet (i.e. Ledger,
+                        Trezor, etc).) is a wallet that is not connected to the
+                        internet. These wallets can also be referred to as
+                        offline wallets or hardware wallets.
+                      </p>
+                    </div>
+                  </div>
+                </div>
                 <div class="question-box">
                   <button
                     class="btn btn-question collapsed"
@@ -735,7 +858,7 @@
                     data-target="#questionNine"
                     aria-expanded="false"
                   >
-                    <span>How many can I mint?</span>
+                    <span>How to pay in Crypto Currency? </span>
                     <img
                       src="./assets/img/faq-dropdown-arrow.svg"
                       alt="Arrow"
@@ -749,11 +872,109 @@
                   >
                     <div class="answer">
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Sunt ipsa sapiente expedita aperiam iste suscipit cum
-                        voluptates voluptatibus facilis incidunt perferendis
-                        dolore iure iusto, minima culpa id velit consequatur
-                        quae?
+                        1. First you will need a crypto wallet.<br />
+                        (This usually only takes a few minutes)<br />
+                        Setting up one of these doesn’t need ID verification
+                        right away; that comes later when you want to put some
+                        crypto into it.<br /><br />
+                        <i
+                          >Here’s a rundown on setting up a self-custody mobile
+                          wallet:</i
+                        ><br />
+                        2. <b>Choose a wallet app</b> such as Coinbase.com
+                        Wallet, Mycelium, or Metamask. <br />
+                        3. <b>Create an account</b> and record your recovery
+                        phrase somewhere safe where no one is able to access it.
+                        (NEVER SHARE YOUR RECOVERY PHRASE /KEY WITH ANYONE. IF
+                        YOU LOSE THIS KEY/PHRASE YOU WIL LOSE EVERYTHING IN THE
+                        ACCOUNT) NO ONE SHOULD EVER HAVE TO ASK YOU FOR YOUR
+                        RECOVERY PHRASE.<br />
+                        Unfortunately, you can’t press “forgot password” with a
+                        wallet like this if you lose access. Your only chance of
+                        getting control is by entering your private key, (the
+                        string of 12 random words generated for you when you
+                        signed up for the wallet).<br />
+                        <span
+                          >• Some wallet apps may allow you to add an extra
+                          layer of security, like facial recognition or creating
+                          a passcode.</span
+                        >
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="question-box">
+                  <button
+                    class="btn btn-question collapsed"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#questionTen"
+                    aria-expanded="false"
+                  >
+                    <span>How do I buy cryptocurrency? </span>
+                    <img
+                      src="./assets/img/faq-dropdown-arrow.svg"
+                      alt="Arrow"
+                      class="arrow"
+                    />
+                  </button>
+                  <div
+                    class="collapse"
+                    id="questionTen"
+                    data-parent="#faqQuestionWrapper"
+                  >
+                    <div class="answer">
+                      <p>
+                        - First you need to pick a broker or a crypto exchange.
+                        SUCH AS COINBASE.COM OR BINANCE. (Please use what works
+                        best for you depending on your country) If new to
+                        crypto, you’ll want to make sure your exchange or
+                        brokerage of choice allows fiat currency transfers and
+                        purchases made with U.S. dollars. Some exchanges only
+                        allow you to buy crypto using another crypto, meaning
+                        you’d have to find another exchange to buy the tokens
+                        your preferred exchange accepts before you could begin
+                        trading crypto on that platform.
+                        <br /><br />
+                        - <i>Create and Verify your Account.</i> <br />
+                        Once you decide on a cryptocurrency broker or exchange,
+                        you can sign up to open an account. Depending on the
+                        platform and the amount you plan to buy, you may have to
+                        verify your identity. This is an essential step to
+                        prevent fraud and meet federal regulatory requirements.
+                        <br /><br />
+                        - You may not be able to buy or sell cryptocurrency
+                        until you complete the verification process. The
+                        platform may ask you to submit a copy of your driver’s
+                        license or passport, and you may even be asked to upload
+                        a selfie to prove your appearance matches the documents
+                        you submit.
+                        <br /><br />
+                        - To buy crypto, you’ll need to make sure you have funds
+                        in your account. You might deposit money into your
+                        crypto account by linking your bank account, authorizing
+                        a wire transfer or making a payment with a debit/credit
+                        card.<br />
+                        <i>Please note:</i> Depending on the platform you use to
+                        purchase Cryptocurrency, there may be fees associated
+                        for the purchases. That is for the miners who “mine” the
+                        coin. Which is the percentage that they receive to mine
+                        that crypto currency. (We do not take those fees). These
+                        fees are part of the crypto purchase process on the
+                        particular platform which may vary.
+                        <span
+                          >• Depending on the exchange or broker and your
+                          funding method, you may have to wait a few days and/or
+                          up to 10 days, before you can use the money you
+                          deposit to buy cryptocurrency.
+                        </span>
+                        <br />
+                        Once there is money in your account, you’re ready to
+                        place your first cryptocurrency order.<br />
+                        We accept the following Crypto currency.
+                        <span>• Bitcoin (BTC)</span>
+                        <span>• Ethereum (ETH)</span>
+                        <span>• USD Tether (USDT)</span>
                       </p>
                     </div>
                   </div>
